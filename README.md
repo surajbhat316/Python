@@ -1,2 +1,2 @@
 # Python
-Comprises of a bunch of cPython Code
+Comprises of a bunch of Python Code
